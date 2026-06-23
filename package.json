@@ -1,0 +1,7 @@
+{
+  "name": "citci-cms",
+  "private": true,
+  "scripts": {
+    "dev": "bash scripts/local-cms.sh"
+  }
+}
