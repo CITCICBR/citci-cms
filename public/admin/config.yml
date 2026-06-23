@@ -2,7 +2,7 @@ backend:
   name: github
   repo: citcicbr/citci-website
   branch: main
-  base_url: https://api.netlify.com
+  base_url: https://oauth.decap-cms.xyz
   auth_endpoint: /auth
 
 media_folder: public/images
