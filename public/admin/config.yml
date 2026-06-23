@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: citcicbr/citci-website
   branch: main
 
 media_folder: public/images
