@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: citcicbr/citci-website
+  name: git-gateway
   branch: main
-  base_url: https://oauth.decap-cms.xyz
-  auth_endpoint: /auth
 
 media_folder: public/images
 public_folder: /images
