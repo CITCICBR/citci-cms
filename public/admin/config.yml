@@ -2,8 +2,8 @@ backend:
   name: github
   repo: citcicbr/citci-website
   branch: main
-  base_url: https://citci.vercel.app
-  auth_endpoint: /api/oauth
+  base_url: https://api.netlify.com
+  auth_endpoint: /auth
 
 media_folder: public/images
 public_folder: /images
